@@ -3,7 +3,7 @@
     "registrant": "Ultreon",
     "type": "registration",
     "dev": false,
-    "site": "https://github.com/wildmaster84/GitWeb-Sites/official",
+    "site": "https://raw.githubusercontent.com/wildmaster84/GitWeb-Sites/master",
     "registrations": [
       {"*": "*"}
     ]
