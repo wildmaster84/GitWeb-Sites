@@ -1,0 +1,17 @@
+[
+  {
+    "registrant": "Ultreon",
+    "type": "registration",
+    "dev": false,
+    "site": "https://github.com/wildmaster84/GitWeb-Sites/official",
+    "registrations": [
+      {"*": "*"}
+    ]
+  },
+  {
+    "_comment": "Jab125 Site Register",
+    "registrant": "Jab125",
+    "type": "site-register",
+    "register": "https://github.com/Jab125/gitweb-sites/raw/main/site_registrations.json"
+  }
+]
