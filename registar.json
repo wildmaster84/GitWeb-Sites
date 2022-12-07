@@ -1,0 +1,61 @@
+[
+  {
+    "dev": false,
+    "registrant": "Ultreon",
+    "site": "https://raw.githubusercontent.com/Ultreon/gitweb-sites/main/",
+    "registrations": [
+      {"*": "*"}
+    ]
+  },
+  {
+    "_comment": "Jab125 Sites Register",
+    "registrant": "Jab125",
+    "type": "site-register",
+    "register": "https://jab125.com/gitweb/site_registrations.php"
+  },
+  {
+    "dev": false,
+    "registrant": "Jab125",
+    "site": "https://jab125.com/gitweb/",
+    "registrations": [
+      {
+        "vulnerability": "extension",
+        "vulnerabilities": "extension",
+        "vulnerability.official": "domain",
+        "vulnerabilities.official": "domain",
+        "welcome.official/vulnerabilities": "directory",
+        "welcome.official/vulnerability": "directory"
+      }
+    ]
+  },
+  {
+    "_comment": "Testing Sites, I'm keeping these up as why not?",
+    "registrant": "Jab125",
+    "dev": false,
+    "site": "https://raw.githubusercontent.com/Jab125/gitweb-sites/main/",
+    "registrations": [
+      {"test": "extension"},
+      {"test.official": "domain"},
+      {"testing.official": "domain"},
+      {"welcome.official/test": "directory"}
+    ]
+  },
+  {
+    "_comment": "Endermail",
+    "registrant": "Jab125",
+    "dev": false,
+    "site": "https://raw.githubusercontent.com/Jab125/gitweb-sites/main/",
+    "registrations": [
+      {"endermail.official": "domain"}
+    ]
+  },
+  {
+    "_comment": "Experimental GitWeb Sites",
+    "registrant": "Jab125",
+    "dev": false,
+    "site": "https://jab125.com/gitweb/",
+    "registrations": [
+      {"sites": "extension"}
+    ]
+  }
+]
