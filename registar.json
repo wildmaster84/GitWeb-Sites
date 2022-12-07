@@ -2,7 +2,7 @@
   {
     "dev": false,
     "registrant": "Ultreon",
-    "site": "https://raw.githubusercontent.com/Ultreon/gitweb-sites/main/",
+    "site": "https://raw.githubusercontent.com/wildmaster84/gitweb_sites/master/",
     "registrations": [
       {"*": "*"}
     ]
@@ -32,7 +32,7 @@
     "_comment": "Testing Sites, I'm keeping these up as why not?",
     "registrant": "Jab125",
     "dev": false,
-    "site": "https://raw.githubusercontent.com/Jab125/gitweb-sites/main/",
+    "site": "https://raw.githubusercontent.com/wildmaster84/gitweb_sites/master/",
     "registrations": [
       {"test": "extension"},
       {"test.official": "domain"},
@@ -44,7 +44,7 @@
     "_comment": "Endermail",
     "registrant": "Jab125",
     "dev": false,
-    "site": "https://raw.githubusercontent.com/Jab125/gitweb-sites/main/",
+    "site": "https://raw.githubusercontent.com/wildmaster84/gitweb_sites/master/",
     "registrations": [
       {"endermail.official": "domain"}
     ]
