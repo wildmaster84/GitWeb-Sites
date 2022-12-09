@@ -2,9 +2,6 @@
 image=https://raw.githubusercontent.com/JacksonPlayz/JacksonsThings/master/gitweb/Banners/TheGreatWiki/TheGreatWikiBanner.png
 text=&9&lThe Great Wiki
 
-#script
-script=for (var i = 0; i < 10; i++) {redirect=welcome.official';}
-
 #navigation
 item-link-1=thegreatwiki.official
 item-label-1=Home
