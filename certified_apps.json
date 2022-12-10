@@ -1,0 +1,38 @@
+[
+	{
+		"id": "devices:gitweb",
+		"name": "GitWeb",
+		"author": "MrCrayfish, MinecraftDoodler",
+		"authors": ["MrCrayfish", "MinecraftDoodler"],
+		"description": "GitWeb is a web browser powered by GitHub. It is community driven, which means websites you browse are created by other players.",
+		"screenshots": 0,
+		"project_id": "gitweb"
+	},
+  {
+		"id": "devices:bank",
+		"name": "Bank",
+		"author": "System",
+		"authors": ["System"],
+		"description": "Online banking app",
+		"screenshots": 0,
+		"project_id": "bank"
+	},
+	{
+		"id": "bubble_burst:bubble_game",
+		"name": "Bubble Burst",
+		"author": "CoffeeCatRailway",
+		"authors": ["CoffeeCatRailway"],
+		"description": "The goal of the game is to \"burst\" the bubbles and get the highest score you can, while not hitting the bombs and losing 2-3 points.",
+		"screenshots": 3,
+		"project_id": "bubble-burst"
+	},
+	{
+		"id": "gitwebbuilder:gitwebbuilder_app",
+		"name": "GitWeb Builder",
+		"author": "Mastef_Chief",
+		"authors": ["Mastef_Chief"],
+		"description": "Want to create an awesome site for GitWeb? Well, then use this builder to create your very own! GitWeb Builder comes equipped with all the tools you need to create your very own website! GitWeb Builder includes: Easy to use formatting buttons, module builders, and a live view to see your website in action!",
+		"screenshots": 3,
+		"project_id": "gitweb-builder"
+	}
+]
