@@ -8,15 +8,6 @@
 		"screenshots": 0,
 		"project_id": "gitweb"
 	},
-  {
-		"id": "devices:bank",
-		"name": "Bank",
-		"author": "System",
-		"authors": ["System"],
-		"description": "Online banking app",
-		"screenshots": 0,
-		"project_id": "bank"
-	},
 	{
 		"id": "bubble_burst:bubble_game",
 		"name": "Bubble Burst",
