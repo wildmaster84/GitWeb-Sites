@@ -1,42 +1,32 @@
 #banner
 image=https://raw.githubusercontent.com/wildmaster84/gitweb_sites/master/wiki/addons/images/main-banner.png
-text=PotionWiki
-
 
 #navigation
 color=-1
 item-link-1=addons.wiki
 item-label-1=Home
 item-icon-1=HOME
-
-item-link-2=potion.wiki/getting-started
+item-link-2=addons.wiki/getting-started
 item-label-2=Getting Started
-
 
 item-link-3=addons.wiki/about
 item-label-3=About
 item-icon-3=INFO
 
-
 #header
 text=Welcome
 scale=2
-
 #paragraph
 text=Welcome to the Addons Wiki. On this site you can find how to make an addon for DeviceMod.
 
-
-
 #header
-text=How To Get Started
+text=&9How To Get Started
 scale=2
-
 
 #paragraph
 text=Click on Getting Started in navigation.
 
-
 #footer
-title=PotionWiki
+title=&eAddon Wiki
 sub-title=Published by wildmaster84 (12/13/2022)
 home-page=addons.wiki
