@@ -1,0 +1,27 @@
+#banner
+image=https://raw.githubusercontent.com/wildmaster84/gitweb_sites/master/wiki/addons/images/main-banner.png
+#navigation
+color=-13149288
+item-link-1=addons.wiki
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=addons.wiki/getting-started
+item-label-2=Getting Started
+item-link-3=addons.wiki/about
+item-label-3=About
+item-icon-3=INFO
+#header
+text=Addon Template
+scale=2
+#paragraph
+text=head over to the GitHub Page and grab the premade addon template.
+#divider
+size=2
+color=-13149288
+
+#paragraph
+text=First, please replace "ExampleAddon" with your addon name.\nBe sure the name is unique to prevent mod collisions!\n\nSecondly, you will need to define the name the addon will be called on the laptop and if its a system application such as a shell addon, new web browser, ect.\n\n Finally just run "gradlew build"
+#footer
+title=&eAddon Wiki
+sub-title=Published by wildmaster84 (12/13/2022)
+home-page=addons.wiki
