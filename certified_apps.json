@@ -14,8 +14,7 @@
 		"author": "wildmaster84",
 		"authors": ["wildmaster84"],
 		"description": "MineOS Kernel",
-		"screenshots": 0,
-		"project_id": "gitweb"
+		"screenshots": 0	
 	},
 	{
 		"id": "bubble_burst:bubble_game",
