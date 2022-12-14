@@ -10,10 +10,10 @@
 	},
 	{
 		"id": "kernel:kernel",
-		"name": "GitWeb",
-		"author": "MrCrayfish, MinecraftDoodler",
-		"authors": ["MrCrayfish", "MinecraftDoodler"],
-		"description": "GitWeb is a web browser powered by GitHub. It is community driven, which means websites you browse are created by other players.",
+		"name": "Kernel",
+		"author": "wildmaster84",
+		"authors": ["wildmaster84"],
+		"description": "MineOS Kernel",
 		"screenshots": 0,
 		"project_id": "gitweb"
 	},
